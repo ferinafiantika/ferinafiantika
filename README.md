@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hi, I’m Ferina Fiantika  
+🎓 An Engineering Physics student from *Institut Teknologi Bandung*  
+📫 Reach me on Instagram: [@ferinafiantika_](https://instagram.com/ferinafiantika_)  
+⚡ FTI-SP'25 | **Velastra**
 
-<!--
-**ferinafiantika/ferinafiantika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=ferinafiantika&color=red)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Learn more about me!</summary>
+
+<br>
+
+### 🎯 Fun Facts
+
+| Rank | Fun Facts |
+|-----:|-----------|
+| 1    | I ❤️ Ferrari, MM93, and Liverpool 🏎️🏍️⚽ |
+| 2    | Can sleep anywhere 😴 |
+| 3    | Codes when motivated 💻 |
+
+<br>
+
+### 🎮 Hobbies
+
+| Rank | Hobbies |
+|-----:|---------|
+| 1    | Sleeping 😴 |
+| 2    | Eating 🍜 |
+| 3    | Baking 🧁 |
+
+</details>
